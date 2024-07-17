@@ -1,12 +1,15 @@
-## Hi there 👋
+<img src="https://github.com/SWYP-LUCKY-SEVEN/back-end/assets/58322578/dc530728-a45d-4a32-8abc-6587f6db0ae8" width="200" height="200"/>
 
-<!--
+## 쇼터디 - 딱 맞는 온라인 스터디메이트 찾기
 
-**Here are some ideas to get you started:**
+학습자의 목표달성을 돕는 맞춤형 스터디 매칭 및 운영 서비스
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📝 프로젝트 소개
+
+뚜렷한 목적을 가진 성인 학습자가 증가하는 추세인 현재.
+
+꾸준한 학습의 동기가 되어줄 스터디그룹의 수요가 꾸준히 증가하고 있습니다.
+
+단기간 목표를 공유하며 동기부여를 받을 수 있고, 학습자의 스터디 목적 달성을 위해 스터디의 매칭부터 진행까지 돕는 서비스를 제공하고자 합니다.
+
+## ⭐ 배포 링크 - [Showtudy](https://shortudy.vercel.app/)
